@@ -6,39 +6,43 @@ Criar os objetos que categorizam
 
 
 
-- [ ] Empresa
-  - [ ] Setor
-    - [ ] Informática
-    - [ ] Vendas
-- [ ] Funcionarios
-  - [ ] Gerente
-  - [ ] Atendente
-  - [ ] Entregador
+- [x] Empresa
+  - [x] Setor
+    - [x] Informática
+    - [x] Vendas
+  
+- [x] Funcionarios
+  - [x] Gerente
+  - [x] Atendente
+  - [x] Entregador
+  - [x] Técnico de Informática
+  
+  
+  
+- [x] Clientes 
 
-- [ ] Clientes 
-
-  - [ ] Nome Completo
-  - [ ] Data Nascimento
-  - [ ] Email
-  - [ ] Telefone
-  - [ ] Credito
+  - [x] Nome Completo
+  - [x] Data Nascimento
+  - [x] Email
+  - [x] Telefone
+  - [x] Credito
 
   
 
-- [ ] Vendas
+- [x] Vendas
 
-  - [ ] Produtos
-  - [ ] Cliente
-  - [ ] Atendente
+  - [x] Produtos
+  - [x] Cliente
+  - [x] Atendente
 
   
 
-- [ ] Prondutos
-  - [ ] SKU
-  - [ ] Volume
-  - [ ] Peso
-  - [ ] Estoque
-  - [ ] Cor
+- [x] Prondutos
+  - [x] SKU
+  - [x] Volume
+  - [x] Peso
+  - [x] Estoque
+  - [x] Cor
 
 
 
