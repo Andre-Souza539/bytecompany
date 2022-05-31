@@ -26,6 +26,10 @@ public class Mensagens {
 			System.out.println("\n========= Dados de Produtos Carregados =========\n");
 			break;
 		}
+		case 'v': {
+			System.out.println("\n========= Dados de Vendas Carregados =========\n");
+			break;
+		}
 		default:
 			throw new IllegalArgumentException("Valor Inesperado: " + c);
 		}

@@ -56,9 +56,23 @@ public class Main {
 		p5.pegarInformacoes();
 		
 		Mensagens.dadosCarregados('p');
-		
-		Venda venda1 = new Venda(c1, p3, empresa, v1);
 
+		// Instancia Os Objetos de Venda
+		
+		Venda venda1 = new Venda(c1, p3, 5, empresa, v1);
+		Venda venda2 = new Venda(c2, p2, 7, empresa, v1);
+		Venda venda3 = new Venda(c3, p5, 29, empresa, v1);
+		Venda venda4 = new Venda(c4, p1, 15, empresa, v1);
+		Venda venda5 = new Venda(c5, p4, 50, empresa, v1);
+		
+		venda1.pegarInformacoes();
+		venda2.pegarInformacoes();
+		venda3.pegarInformacoes();
+		venda4.pegarInformacoes();
+		venda5.pegarInformacoes();
+		
+		Mensagens.dadosCarregados('v');
+		
 		
 		
 		
