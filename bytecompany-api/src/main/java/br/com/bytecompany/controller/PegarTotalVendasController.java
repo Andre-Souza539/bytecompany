@@ -13,16 +13,5 @@ import br.com.bytecompany.repository.VendaRepository;
 @RestController
 @RequestMapping("/faturamento")
 public class PegarTotalVendasController {
-	
-	@Autowired
-	private VendaRepository vendaRepository;
-	
-	@GetMapping
-	public long calculaFaturamento(){
-		
-		long qtdVendas = vendaRepository.count();
-		
-		///
-	}
 
 }
